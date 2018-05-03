@@ -17,7 +17,7 @@ protect: false
 variables:
 - name: gcpProject
   type: string
-  defaultValue: spinnaker-gke-poc
+  defaultValue: kr-73xrdk-sandbox-de
   group: Defaults
 - name: registryHost
   type: string
